@@ -1,7 +1,10 @@
 Line-1
 <<<<<<< HEAD
+<<<<<<< HEAD
 Change by rabase-branch-1
 =======
 Change by rabase-branch-2
 >>>>>>> 622fbc4 (branch-2)
+=======
 Change by rabase-branch-2
+>>>>>>> 622fbc4d49ca144e16605be76d9600bb96b29fa6
