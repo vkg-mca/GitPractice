@@ -35,12 +35,20 @@ Where
  - [ ] Commit the code to local repository which is also called staging the changes `git commit -m "added inital formatting template"`
  - [ ] Optional: Check the git history `git log --oneline --graph`
  - [ ] Optional: Check git status `git status`
- - [ ]  Optional: Check git log`git log`
+ - [ ] Optional: Check git log`git log`
+ - [ ] Rebase:  switch to base branch `git rabse master` 
+ - [ ] Rebase:  Pull the master changes `git pull master` 
+ - [ ] Rebase:  reabse the branch `git rebase master` 
+ - [ ] Rebase:  Resolve if there is any conflict 
  - [ ] Push the changes to remote repository `git push f/UEI-106-change-document-formatting`
  
  #### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)Updating a file
-  - [ ] Edit `MardownFormattingTemplate.md` by adding some other information
-  - [ ] Optional: Check git status `git status`
-  - [ ] Amend the changes `git commit --amend`
-  - [ ] Push the changes forcefully to the remote branch
+ - [ ] Edit `MardownFormattingTemplate.md` by adding some other information
+ - [ ] Optional: Check git status `git status`
+ - [ ] Amend the changes `git commit --amend`
+ - [ ] Rebase:  switch to base branch `git rabse master` 
+ - [ ] Rebase:  Pull the master changes `git pull master` 
+ - [ ] Rebase:  reabse the branch `git rebase master` 
+ - [ ] Rebase:  Resolve if there is any conflict
+ - [ ] Push the changes forcefully to the remote branch
  - [ ] Push the changes to remote repository `git push -f f/UEI-106-change-document-formatting`
