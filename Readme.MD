@@ -36,7 +36,7 @@ Where
  - [ ] Optional: Check the git history `git log --oneline --graph`
  - [ ] Optional: Check git status `git status`
  - [ ] Optional: Check git log`git log`
- - [ ] Rebase:  switch to base branch `git rabse master` 
+ - [ ] Rebase:  switch to base branch `git switch master` 
  - [ ] Rebase:  Pull the master changes `git pull master` 
  - [ ] Rebase:  reabse the branch `git rebase master` 
  - [ ] Rebase:  Resolve if there is any conflict 
@@ -46,7 +46,7 @@ Where
  - [ ] Edit `MardownFormattingTemplate.md` by adding some other information
  - [ ] Optional: Check git status `git status`
  - [ ] Amend the changes `git commit --amend`
- - [ ] Rebase:  switch to base branch `git rabse master` 
+ - [ ] Rebase:  switch to base branch `git switch master` 
  - [ ] Rebase:  Pull the master changes `git pull master` 
  - [ ] Rebase:  reabse the branch `git rebase master` 
  - [ ] Rebase:  Resolve if there is any conflict
